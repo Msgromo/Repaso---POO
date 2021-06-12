@@ -1,7 +1,7 @@
 #ifndef Course_Hpp
 #define Course_Hpp
-#include <iostream>
 #include "../src/Course.cpp"
+#include <iostream>
 
 using namespace std;
 
